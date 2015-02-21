@@ -16,9 +16,10 @@ setup(
     description='A package development framework',
     long_description=README + '\n\n' + CHANGES,
     classifiers=[
-        "Development Status :: 4 - Beta",
+        "Development Status :: 1 - Planning",
         "License :: OSI Approved :: MIT License",
-        "Environment :: Web Environment",
+        "Environment :: Console",
+        "Topic :: Software Development",
     ],
     install_requires=[
     ],
