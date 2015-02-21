@@ -1,0 +1,4 @@
+[report]
+include = pck/**
+omit = tests/**
+       docs/**

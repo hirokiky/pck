@@ -1,0 +1,17 @@
+*.egg
+*.egg-info
+*.pyc
+*$py.class
+*~
+*.sqlite3
+*.sqlite3-journal
+\.coverage
+coverage.xml
+htmlcov/
+.*.sw?
+.sw?
+.DS_Store
+.idea/
+.tox/
+dist/
+build/
